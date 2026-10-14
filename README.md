@@ -4,7 +4,7 @@ I built a Docker image on an Amazon EC2 server, pushed it to a private Amazon EC
 
 ## Architecture
 
-![Architecture diagram](architecture.png)
+![Architecture diagram](architecture3.png)
 
 ```
 Build:   EC2 (Docker) -> docker push -> ECR private repository
